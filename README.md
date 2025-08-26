@@ -8,9 +8,9 @@ git clone https://github.com/eremchuk-mp-8/open-webui.git
 cd open-webui
  ```
 
-Следуйте руководству [https://docs.openwebui.com/getting-started/advanced-topics/development] (Local Development Guide), начиная с пункта **3. Backend Setup**.
+Следуйте руководству [https://docs.openwebui.com/getting-started/advanced-topics/development](Local Development Guide), начиная с пункта **3. Backend Setup**.
 
-После выполнения всех шагов сервер бэкенда становится доступен по адресу [http://localhost:8080/docs] (http://localhost:8080/docs).
+После выполнения всех шагов сервер бэкенда становится доступен по адресу [http://localhost:8080/docs](http://localhost:8080/docs).
 
 ## Модификации
 Добавлены модули, реализующие счётчик использования промптов.
